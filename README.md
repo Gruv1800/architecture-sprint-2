@@ -33,3 +33,8 @@ curl --silent http://ifconfig.me
 ## Доступные эндпоинты
 
 Список доступных эндпоинтов, swagger http://<ip виртуальной машины>:8080/docs
+
+
+# Задание 1
+Схемы - https://disk.yandex.ru/d/_DZJGGXn5sV6lQ
+или - https://github.com/Gruv1800/architecture-sprint-2/tree/feature/sprint_2/schemes
