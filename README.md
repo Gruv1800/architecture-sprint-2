@@ -1,9 +1,14 @@
 # pymongo-api
 
-# Задание 1
+# Задание 1,5,6
 Схемы - https://disk.yandex.ru/d/_DZJGGXn5sV6lQ
 
 или - https://github.com/Gruv1800/architecture-sprint-2/tree/feature/sprint_2/schemes
+
+**финальный вариант** - https://github.com/Gruv1800/architecture-sprint-2/blob/feature/sprint_2/schemes/sprint2_5.drawio
+
+# Задание 2-4
+**Процесс запуска финального варианта** - https://github.com/Gruv1800/architecture-sprint-2/blob/feature/sprint_2/sharding-repl-cache/README.md
 
 ## Как запустить
 
